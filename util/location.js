@@ -1,4 +1,4 @@
-const APIKEY = "your API_KEY"; //deleted
+const APIKEY = "Your API_KEY";
 const axios = require("axios");
 
 const HttpError = require("../models/http-error");
